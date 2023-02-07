@@ -25,7 +25,7 @@ img {
   .weather-app{
     text-align: center;
     max-width: 800px ;
-    margin: 150px auto;
+    margin: 100px auto;
     padding: 20px;
     border: 7px double rgba(100, 58, 206, 0.1);
     border-radius: 74px;
