@@ -1,0 +1,95 @@
+
+body {
+  background:
+   #c7b39b
+   url(https://st2.depositphotos.com/4413287/43244/i/450/depositphotos_432443346-stock-photo-abstract-watercolor-styled-background-copy.jpg) 
+   no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
+ h1
+
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+}
+
+  .weather-app{
+    text-align: center;
+    max-width: 800px ;
+    margin: 200px auto;
+    padding: 20px;
+    border: 7px double rgba(100, 58, 206, 0.1);
+    border-radius: 74px;
+    
+    background-color:#8ecb4d;
+    font-family: 'Unbounded', cursive;
+    font-weight: 400;
+    font-size:20px
+  
+  }
+
+  
+.btn-primary{
+  background: linear-gradient(157deg, rgb(7, 16, 238) 44%, rgb(241, 242, 7) 61%);
+  
+}
+
+  h1{
+    color: #202124;
+    font-family:'Unbounded', cursive;
+    font-size: 35px;
+    font-weight: 200px;
+    line-height: 28px;
+    margin-bottom: 0;
+  }
+  
+  ul{
+    margin: 0;
+    padding: 0;
+  }
+  
+  li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #222529;
+    font-size: 16px;
+    font-weight: 100;
+  line-height: 19px;
+  }
+
+  .weather-forecast {
+   display: block;
+    margin: auto 80px;
+    text-align: center;
+    color: black;
+  }
+
+  .weather-forecast-date {
+    font-size: 18px;
+    opacity: 0.9;
+  }
+  
+  .weather-forecast-temperature-min {
+    opacity: 0.8;
+  }
+  
+  .weather-forecast-temperatures {
+    font-size: 15px;
+  }
+
+  .link{
+    text-align: center;
+  }
+
+  
+ 
